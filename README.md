@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![WeiYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiYoung1013)](https://github.com/WeiYoung1013/github-readme-stats)
+[![WeiYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiYoung1013&count_private=true)](https://github.com/WeiYoung1013/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiYoung1013&hide=html,Jupyter)](https://github.com/WeiYoung1013/github-readme-stats)
 Here are some ideas to get you started:
 
