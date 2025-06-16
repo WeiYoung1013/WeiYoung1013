@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![WeiYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiYoung1013)](https://github.com/WeiYoung1013/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiYoung1013&hide=html,Jupyter_Notebook)](https://github.com/WeiYoung1013/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiYoung1013&hide=html,Jupyter Notebook)](https://github.com/WeiYoung1013/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
