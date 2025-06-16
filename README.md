@@ -1,5 +1,5 @@
 ## Hi there 👋
-![WeiYoung1013's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=WeiYoung1013&show_icons=true&count_private=true&theme=gotham)
+[![WeiYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiYoung1013)](https://github.com/WeiYoung1013/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
