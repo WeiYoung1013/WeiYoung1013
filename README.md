@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-WeiYoung1013-181717?logo=github)](https://github.com/WeiYoung1013)
 [![Email](https://img.shields.io/badge/Email-12213023%40mail.sustech.edu.cn-blue)](mailto:12213023@mail.sustech.edu.cn)
 
-I am a B.Eng. candidate in **Intelligence Science and Technology** at the **Southern University of Science and Technology (SUSTech)**, focusing on **Embodied AI**, **Vision-Language-Action (VLA) models**, **humanoid robotics**, and **multimodal learning**.
+I am a B.Eng. candidate in **Intelligence Science and Technology** at the **Southern University of Science and Technology (SUSTech)**. My interests focus on **Embodied AI**, **humanoid robotics**, **multimodal learning**, and **robot learning**.
 
 ---
 
@@ -15,7 +15,20 @@ I am a B.Eng. candidate in **Intelligence Science and Technology** at the **Sout
 
 ---
 
-## Internship Experience
+## Experience
+
+### Research Assistant  
+**Fnii VLA Lab, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)** | Aug. 2025 - Present
+
+- Worked on **VLA pre-training** with the ARP architecture and the AgiBot-World dataset.
+- Trained and evaluated world models under the ARP policy framework.
+- Participated in dual-arm real-robot experiments and followed recent progress in **VLA-Adapter** and dual-system VLA.
+- Explored chain-of-thought and fast-slow reasoning mechanisms for improving the robustness of embodied agents.
+
+**The Hong Kong University of Science and Technology (HKUST)** | *Time TBD*
+
+- Worked on research topics related to **robotics / embodied intelligence / multimodal learning**.  
+- *Please replace this line with the specific project, lab, supervisor, and contribution details if needed.*
 
 ### Multimodal Algorithm Intern  
 **Streamax Technology Co., Ltd.** | Jul. 2025 - Sep. 2025
@@ -47,13 +60,11 @@ I am a B.Eng. candidate in **Intelligence Science and Technology** at the **Sout
 ## Skills
 
 **Languages**  
-Python · C · C++ · Java · SQL · MATLAB · Julia
+Python · C · C++ · Java · MATLAB · Julia
 
 **Research & Engineering Areas**  
-Machine Learning · NLP · Reinforcement Learning · Imitation Learning · VLA · Humanoid Robotics · Multimodal Perception
+Machine Learning · LLM · Reinforcement Learning · Imitation Learning · VLA · Humanoid Robotics · Multimodal Perception
 
-**Tools & Methods**  
-LoRA · MoE · YOLOv8n · Qwen2.5-VL · CARLA · PINN · FDTD Simulation · Automatic Differentiation
 
 ---
 
