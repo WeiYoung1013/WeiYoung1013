@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-WeiYoung1013-181717?logo=github)](https://github.com/WeiYoung1013)
 [![Email](https://img.shields.io/badge/Email-12213023%40mail.sustech.edu.cn-blue)](mailto:12213023@mail.sustech.edu.cn)
 
-I am a B.Eng. candidate in **Intelligence Science and Technology** at the **Southern University of Science and Technology (SUSTech)**. My interests focus on **Embodied AI**, **humanoid robotics**, **multimodal learning**, and **robot learning**.
+I am a B.Eng. candidate in **Computer Science** at the **Southern University of Science and Technology (SUSTech)**. My interests focus on **Embodied AI**, **humanoid robotics**, **multimodal learning**, and **robot learning**.
 
 ---
 
