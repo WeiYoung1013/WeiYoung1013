@@ -19,10 +19,7 @@ I am a B.Eng. candidate in **Computer Science** at the **Southern University of 
 
 ### Research Assistant  
 **Fnii VLA Lab, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)** | Aug. 2025 - Present
-
-- Worked on **VLA pre-training** with the ARP architecture and the AgiBot-World dataset.
-- Trained and evaluated world models under the ARP policy framework.
-- Participated in dual-arm real-robot experiments and followed recent progress in **VLA-Adapter** and dual-system VLA.
+- Trained and evaluated VLA models under the ARP policy framework.
 - Explored chain-of-thought and fast-slow reasoning mechanisms for improving the robustness of embodied agents.
 
 **The Hong Kong University of Science and Technology (HKUST)** | *Time TBD*
@@ -33,15 +30,13 @@ I am a B.Eng. candidate in **Computer Science** at the **Southern University of 
 ### Multimodal Algorithm Intern  
 **Streamax Technology Co., Ltd.** | Jul. 2025 - Sep. 2025
 
-- Optimized in-house object detection models using **MoE** and **LoRA** methods.
-- Conducted extensive experiments and improved the **mAP50** metric by **5%**.
-- Integrated LoRA-based fine-tuning to improve model performance and deployment efficiency.
+- Optimized in-house object detection models
+- Conducted extensive experiments 
 
 ### Software Intern  
 **Bosch Rexroth** | Aug. 2024
 
 - Participated in software maintenance and optimization.
-- Used **C/C++** for front-end and back-end component development.
 - Learned and applied industrial software collaboration workflows.
 
 ---
@@ -49,7 +44,6 @@ I am a B.Eng. candidate in **Computer Science** at the **Southern University of 
 ## Publication
 
 ### LIFe: Learning Local Interaction Fields over Humanoid Motion Prior  
-**CoRL 2026**
 
 - Proposed the **Gear-Sonic** interaction direction based on humanoid-robot market pain points and related interaction literature.
 - Led core engineering implementation and major simulation / real-humanoid experiments.
