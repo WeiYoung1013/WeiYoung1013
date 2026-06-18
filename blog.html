@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Research notes and project logs by Jiayang He on embodied AI, humanoid robotics, multimodal learning, and robot learning." />
+    <title>Blog | Jiayang He</title>
+    <link rel="stylesheet" href="assets/site.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="site-header">
+        <nav class="nav" aria-label="Primary navigation">
+          <a class="brand" href="index.html">
+            <span class="brand-mark" aria-hidden="true">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+                <path d="M12 2v20M2 12h20M4.9 4.9l14.2 14.2M19.1 4.9 4.9 19.1" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+              </svg>
+            </span>
+            <span>Jiayang He<small>WeiYoung1013</small></span>
+          </a>
+          <div class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="index.html#research">Research</a>
+            <a href="index.html#projects">Projects</a>
+            <a href="blog.html" aria-current="page">Blog</a>
+            <a href="index.html#contact">Contact</a>
+          </div>
+          <div class="nav-actions">
+            <a class="icon-link" href="https://github.com/WeiYoung1013" aria-label="GitHub profile">
+              <svg width="19" height="19" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12 .5A12 12 0 0 0 8.2 23.9c.6.1.8-.3.8-.6v-2c-3.3.7-4-1.4-4-1.4-.5-1.3-1.3-1.7-1.3-1.7-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 .1.6 2.8 3.4 2 .1-.7.4-1.2.7-1.5-2.6-.3-5.4-1.3-5.4-5.9 0-1.3.5-2.4 1.2-3.2-.1-.3-.5-1.6.1-3.2 0 0 1-.3 3.3 1.2a11.4 11.4 0 0 1 6 0C17.2 6.6 18.2 7 18.2 7c.6 1.6.2 2.9.1 3.2.8.8 1.2 1.9 1.2 3.2 0 4.6-2.8 5.6-5.5 5.9.4.4.8 1.1.8 2.2v3.2c0 .3.2.7.8.6A12 12 0 0 0 12 .5Z" />
+              </svg>
+            </a>
+          </div>
+        </nav>
+      </header>
+
+      <main>
+        <section class="blog-hero">
+          <div class="container">
+            <h1>Blog & Research Notes</h1>
+            <p>Short, structured notes on embodied AI, humanoid robotics, multimodal representation learning, and the engineering details behind robot-learning systems.</p>
+            <div class="blog-tools">
+              <input class="search" type="search" placeholder="Search notes, topics, or tags" data-blog-search aria-label="Search blog posts" />
+              <div class="filters" aria-label="Blog categories">
+                <button class="filter is-active" type="button" data-filter="all">All</button>
+                <button class="filter" type="button" data-filter="embodied-ai">Embodied AI</button>
+                <button class="filter" type="button" data-filter="humanoid">Humanoid</button>
+                <button class="filter" type="button" data-filter="multimodal">Multimodal</button>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="section tight">
+          <div class="container">
+            <div class="post-grid">
+              <article class="card article-card" data-post-card data-category="embodied-ai">
+                <div class="card-body">
+                  <div class="article-top">
+                    <div>
+                      <div class="date">Jun 18, 2026</div>
+                      <h3><a href="posts/embodied-ai-generalist-robots.html">Building Generalist Robots with Embodied Foundation Models</a></h3>
+                      <p>How foundation models can become useful for embodied perception, planning, and interaction.</p>
+                    </div>
+                  </div>
+                  <div class="tags"><span class="tag">Embodied AI</span><span class="tag">Agents</span></div>
+                  <div class="read-meta">5 min read →</div>
+                </div>
+              </article>
+              <article class="card article-card" data-post-card data-category="humanoid">
+                <div class="card-body">
+                  <div class="article-top">
+                    <div>
+                      <div class="date">Jun 18, 2026</div>
+                      <h3><a href="posts/humanoid-sim2real-notes.html">Humanoid Sim2Real Notes: What I Track First</a></h3>
+                      <p>A compact checklist for moving humanoid policies from clean simulation toward rougher real-world conditions.</p>
+                    </div>
+                  </div>
+                  <div class="tags"><span class="tag">Humanoid</span><span class="tag">Sim2Real</span></div>
+                  <div class="read-meta">6 min read →</div>
+                </div>
+              </article>
+              <article class="card article-card" data-post-card data-category="multimodal">
+                <div class="card-body">
+                  <div class="article-top">
+                    <div>
+                      <div class="date">Jun 18, 2026</div>
+                      <h3><a href="posts/multimodal-robot-learning.html">Multimodal Representations for Robot Learning</a></h3>
+                      <p>Why robot policies need representations that connect visual evidence, language, proprioception, and action.</p>
+                    </div>
+                  </div>
+                  <div class="tags"><span class="tag">Multimodal</span><span class="tag">Robot Learning</span></div>
+                  <div class="read-meta">7 min read →</div>
+                </div>
+              </article>
+            </div>
+            <div class="empty-state" data-empty-state>No posts match this filter.</div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        <div class="container footer-grid">
+          <div>
+            <h2>Jiayang He</h2>
+            <p>Research notes, build logs, and personal resources.</p>
+          </div>
+          <div>
+            <h3>Pages</h3>
+            <div class="footer-links">
+              <a href="index.html">Home</a>
+              <a href="index.html#research">Research</a>
+              <a href="index.html#projects">Projects</a>
+            </div>
+          </div>
+          <div>
+            <h3>Contact</h3>
+            <p><a href="mailto:12213023@mail.sustech.edu.cn">12213023@mail.sustech.edu.cn</a></p>
+            <p><a href="https://github.com/WeiYoung1013">github.com/WeiYoung1013</a></p>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script src="assets/site.js"></script>
+  </body>
+</html>

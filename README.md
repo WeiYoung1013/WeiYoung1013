@@ -58,26 +58,13 @@ profile = {
 
 ---
 
-## Emilia Solo Gallery
+## Personal Website
 
-<div align="center">
+- Homepage: [`index.html`](./index.html)
+- Blog: [`blog.html`](./blog.html)
+- Visual resource: [`1181097352/`](./1181097352/)
 
-<table>
-  <tr>
-    <td align="center"><img src="./assets/emilia/emilia-fanart-1.jpg" alt="Emilia Fanart 1" width="220" /></td>
-    <td align="center"><img src="./assets/emilia/emilia-fanart-2.jpg" alt="Emilia Fanart 2" width="220" /></td>
-    <td align="center"><img src="./assets/emilia/emilia-fanart-3.jpg" alt="Emilia Fanart 3" width="220" /></td>
-  </tr>
-  <tr>
-    <td><sub>Solo fanart 01</sub></td>
-    <td><sub>Solo fanart 02</sub></td>
-    <td><sub>Solo fanart 03</sub></td>
-  </tr>
-</table>
-
-</div>
-
-> Put your favorite **single-character Emilia fanart** images into `assets/emilia/` with the filenames above, and they will display automatically.
+The website uses the Wallpaper Engine scene preview from `1181097352/preview.jpg` as a restrained visual accent. The original package remains available in `1181097352/scene.pkg`.
 
 ---
 

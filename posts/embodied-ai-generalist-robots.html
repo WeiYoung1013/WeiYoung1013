@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Notes on building generalist robots with embodied foundation models." />
+    <title>Building Generalist Robots with Embodied Foundation Models | Jiayang He</title>
+    <link rel="stylesheet" href="../assets/site.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="site-header">
+        <nav class="nav" aria-label="Primary navigation">
+          <a class="brand" href="../index.html">
+            <span class="brand-mark" aria-hidden="true">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+                <path d="M12 2v20M2 12h20M4.9 4.9l14.2 14.2M19.1 4.9 4.9 19.1" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+              </svg>
+            </span>
+            <span>Jiayang He<small>WeiYoung1013</small></span>
+          </a>
+          <div class="nav-links">
+            <a href="../index.html">Home</a>
+            <a href="../index.html#research">Research</a>
+            <a href="../index.html#projects">Projects</a>
+            <a href="../blog.html" aria-current="page">Blog</a>
+            <a href="../index.html#contact">Contact</a>
+          </div>
+        </nav>
+      </header>
+      <main>
+        <section class="post-hero">
+          <div class="container">
+            <div class="date">Jun 18, 2026 · Embodied AI · 5 min read</div>
+            <h1>Building Generalist Robots with Embodied Foundation Models</h1>
+            <p>A working note on where large models help robots, where they still fail, and what I would measure first.</p>
+          </div>
+        </section>
+        <section class="section tight">
+          <div class="container post-shell">
+            <article class="prose">
+              <h2>The Useful Part</h2>
+              <p>Foundation models become valuable for robotics when they compress messy observations into reusable structure: object identity, affordance, intent, temporal context, and the language humans use to specify goals.</p>
+              <p>For an embodied agent, the core question is not whether a model can describe the world. The question is whether its representation can improve action selection under latency, uncertainty, and contact-rich dynamics.</p>
+              <h2>Where I Would Start</h2>
+              <ul>
+                <li>Use language as a task interface, not as a replacement for low-level control.</li>
+                <li>Keep perception outputs grounded in geometry, state estimation, and uncertainty.</li>
+                <li>Evaluate policies by recovery behavior, not only by average task success.</li>
+                <li>Track the failure mode: perception miss, planning error, action execution, or distribution shift.</li>
+              </ul>
+              <h2>Open Problems</h2>
+              <p>The strongest systems will likely combine pretrained multimodal priors with robot-specific data. The main gap is still action grounding: mapping a general representation into stable motor behavior across embodiment, environment, and time.</p>
+              <blockquote>My current bias: generalist robot systems need model breadth, but deployment quality still comes from careful interfaces, datasets, and evaluation loops.</blockquote>
+            </article>
+            <aside class="post-aside">
+              <strong>Post Index</strong>
+              <a href="../blog.html">All posts</a>
+              <a href="humanoid-sim2real-notes.html">Humanoid Sim2Real Notes</a>
+              <a href="multimodal-robot-learning.html">Multimodal Robot Learning</a>
+            </aside>
+          </div>
+        </section>
+      </main>
+    </div>
+    <script src="../assets/site.js"></script>
+  </body>
+</html>

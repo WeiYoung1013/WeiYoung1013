@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Humanoid sim-to-real notes and evaluation checklist." />
+    <title>Humanoid Sim2Real Notes | Jiayang He</title>
+    <link rel="stylesheet" href="../assets/site.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="site-header">
+        <nav class="nav" aria-label="Primary navigation">
+          <a class="brand" href="../index.html">
+            <span class="brand-mark" aria-hidden="true">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+                <path d="M12 2v20M2 12h20M4.9 4.9l14.2 14.2M19.1 4.9 4.9 19.1" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+              </svg>
+            </span>
+            <span>Jiayang He<small>WeiYoung1013</small></span>
+          </a>
+          <div class="nav-links">
+            <a href="../index.html">Home</a>
+            <a href="../index.html#research">Research</a>
+            <a href="../index.html#projects">Projects</a>
+            <a href="../blog.html" aria-current="page">Blog</a>
+            <a href="../index.html#contact">Contact</a>
+          </div>
+        </nav>
+      </header>
+      <main>
+        <section class="post-hero">
+          <div class="container">
+            <div class="date">Jun 18, 2026 · Humanoid Robotics · 6 min read</div>
+            <h1>Humanoid Sim2Real Notes: What I Track First</h1>
+            <p>A compact checklist for identifying the most expensive gaps between clean simulation and real humanoid behavior.</p>
+          </div>
+        </section>
+        <section class="section tight">
+          <div class="container post-shell">
+            <article class="prose">
+              <h2>Signals Before Success Rate</h2>
+              <p>Task success is useful, but it hides why a policy works. For humanoid sim-to-real transfer, I want the smaller signals first: contact timing, foot slip, recovery margin, torque saturation, sensor delay sensitivity, and falls by phase.</p>
+              <h2>Checklist</h2>
+              <ul>
+                <li>Randomize terrain, mass, friction, and sensor noise separately before combining them.</li>
+                <li>Measure gait stability after disturbance, not only during nominal walking.</li>
+                <li>Log action smoothness and actuator saturation at the same frequency as control.</li>
+                <li>Keep a small set of replayable failure scenarios for every policy revision.</li>
+              </ul>
+              <h2>Debugging Pattern</h2>
+              <p>When a real-world trial fails, I try to classify it as a state-estimation issue, a dynamics mismatch, a policy overfit, or an actuator limitation. That classification decides whether the next experiment should change training data, randomization, policy architecture, or hardware assumptions.</p>
+            </article>
+            <aside class="post-aside">
+              <strong>Post Index</strong>
+              <a href="../blog.html">All posts</a>
+              <a href="embodied-ai-generalist-robots.html">Embodied Foundation Models</a>
+              <a href="multimodal-robot-learning.html">Multimodal Robot Learning</a>
+            </aside>
+          </div>
+        </section>
+      </main>
+    </div>
+    <script src="../assets/site.js"></script>
+  </body>
+</html>

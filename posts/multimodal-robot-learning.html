@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Notes on multimodal representations for robot learning." />
+    <title>Multimodal Representations for Robot Learning | Jiayang He</title>
+    <link rel="stylesheet" href="../assets/site.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="site-header">
+        <nav class="nav" aria-label="Primary navigation">
+          <a class="brand" href="../index.html">
+            <span class="brand-mark" aria-hidden="true">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+                <path d="M12 2v20M2 12h20M4.9 4.9l14.2 14.2M19.1 4.9 4.9 19.1" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+              </svg>
+            </span>
+            <span>Jiayang He<small>WeiYoung1013</small></span>
+          </a>
+          <div class="nav-links">
+            <a href="../index.html">Home</a>
+            <a href="../index.html#research">Research</a>
+            <a href="../index.html#projects">Projects</a>
+            <a href="../blog.html" aria-current="page">Blog</a>
+            <a href="../index.html#contact">Contact</a>
+          </div>
+        </nav>
+      </header>
+      <main>
+        <section class="post-hero">
+          <div class="container">
+            <div class="date">Jun 18, 2026 · Multimodal Learning · 7 min read</div>
+            <h1>Multimodal Representations for Robot Learning</h1>
+            <p>Why robot policies need representations that connect visual evidence, language, proprioception, and action.</p>
+          </div>
+        </section>
+        <section class="section tight">
+          <div class="container post-shell">
+            <article class="prose">
+              <h2>Representation Should Serve Action</h2>
+              <p>For robot learning, a representation is only useful if it preserves the details that affect the next action. A beautiful visual embedding can still fail if it ignores contact, occlusion, or the object's pose relative to the robot.</p>
+              <h2>Modalities I Care About</h2>
+              <ul>
+                <li>Vision gives object, geometry, and scene context.</li>
+                <li>Language gives task intent and compositional structure.</li>
+                <li>Proprioception gives the robot its current physical state.</li>
+                <li>Touch and force signals reveal contact events that cameras often miss.</li>
+              </ul>
+              <h2>A Practical Test</h2>
+              <p>I like probing whether a representation can predict near-future interaction outcomes: slip, collision, grasp stability, or whether a planned motion will enter a blocked region. These tests are closer to policy quality than generic reconstruction losses.</p>
+              <blockquote>A robot representation should be multimodal, but it should also be action-aware.</blockquote>
+            </article>
+            <aside class="post-aside">
+              <strong>Post Index</strong>
+              <a href="../blog.html">All posts</a>
+              <a href="embodied-ai-generalist-robots.html">Embodied Foundation Models</a>
+              <a href="humanoid-sim2real-notes.html">Humanoid Sim2Real Notes</a>
+            </aside>
+          </div>
+        </section>
+      </main>
+    </div>
+    <script src="../assets/site.js"></script>
+  </body>
+</html>
