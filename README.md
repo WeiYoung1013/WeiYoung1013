@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=12,20,24,25&text=Jiayang%20He&fontSize=52&fontAlignY=36&desc=B.Eng.%20Candidate%20in%20Computer%20Science%20%40%20SUSTech&descSize=18&animation=fadeIn)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=12,20,24,25&text=He%20Jiayang&fontSize=52&fontAlignY=36&desc=B.Eng.%20Candidate%20in%20Computer%20Science%20%40%20SUSTech&descSize=18&animation=fadeIn)
 
 # Hi, I'm He Jiayang  👋
 
