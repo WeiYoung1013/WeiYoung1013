@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">He Jiayang profile hero</title>
+  <desc id="desc">Warm white and silver violet profile banner for embodied AI, humanoid robotics, multimodal learning, and robot learning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffefd"/>
+      <stop offset="0.48" stop-color="#fff9f4"/>
+      <stop offset="1" stop-color="#f5efff"/>
+    </linearGradient>
+    <radialGradient id="violetGlow" cx="74%" cy="49%" r="46%">
+      <stop offset="0" stop-color="#b58cff" stop-opacity="0.42"/>
+      <stop offset="0.42" stop-color="#d8caff" stop-opacity="0.23"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="warmGlow" cx="18%" cy="12%" r="46%">
+      <stop offset="0" stop-color="#fff0e1" stop-opacity="0.82"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="lineFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b5a7c9" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#b5a7c9" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#8d6add" stop-opacity="0.78"/>
+    </linearGradient>
+    <linearGradient id="crystal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.52" stop-color="#d9c9ff"/>
+      <stop offset="1" stop-color="#8b66da"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#5b4375" flood-opacity="0.16"/>
+    </filter>
+    <pattern id="dots" width="42" height="42" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.7" fill="#9c83c9" opacity="0.16"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#warmGlow)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#violetGlow)"/>
+  <rect x="0" y="0" width="1280" height="420" rx="28" fill="url(#dots)" opacity="0.55"/>
+
+  <path d="M0 336 C166 304 240 360 390 330 C516 305 586 214 714 212 C842 210 918 302 1042 272 C1134 250 1194 196 1280 210" fill="none" stroke="#e8dff4" stroke-width="1.4" opacity="0.85"/>
+  <path d="M716 52 C858 112 930 214 910 366" fill="none" stroke="#9d78ea" stroke-width="1.2" opacity="0.46"/>
+  <path d="M786 30 C908 160 1056 202 1234 154" fill="none" stroke="#ffffff" stroke-width="5" opacity="0.62"/>
+  <path d="M788 334 C914 240 1060 228 1280 278" fill="none" stroke="#c7b5fb" stroke-width="9" stroke-linecap="round" opacity="0.22"/>
+
+  <g transform="translate(68 58)">
+    <rect x="0" y="0" width="58" height="58" rx="16" fill="#ffffff" opacity="0.94" stroke="#e8ddeb"/>
+    <path d="M18 18 V40 M40 18 V40 M18 29 H40" stroke="#8c63d8" stroke-width="4" stroke-linecap="round"/>
+    <text x="78" y="24" fill="#7d6f89" font-size="16" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">WeiYoung1013</text>
+    <text x="78" y="50" fill="#281f32" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">Research, robotics, and learning systems</text>
+
+    <text x="0" y="152" fill="#251b2f" font-size="74" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">He Jiayang</text>
+    <text x="2" y="196" fill="#6f6278" font-size="26" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="650">Computer Science @ SUSTech</text>
+    <text x="2" y="236" fill="#4f435b" font-size="21" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="500">Building toward embodied agents and humanoid robots</text>
+    <text x="2" y="266" fill="#4f435b" font-size="21" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="500">that connect perception, decision-making, and physical interaction.</text>
+
+    <g transform="translate(2 308)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="750">
+      <rect x="0" y="0" width="118" height="34" rx="17" fill="#ffffff" stroke="#eadff1"/>
+      <text x="18" y="22" fill="#744fd0">Embodied AI</text>
+      <rect x="132" y="0" width="152" height="34" rx="17" fill="#ffffff" stroke="#eadff1"/>
+      <text x="150" y="22" fill="#744fd0">Humanoid Robotics</text>
+      <rect x="298" y="0" width="156" height="34" rx="17" fill="#ffffff" stroke="#eadff1"/>
+      <text x="316" y="22" fill="#744fd0">Multimodal Learning</text>
+      <rect x="468" y="0" width="126" height="34" rx="17" fill="#ffffff" stroke="#eadff1"/>
+      <text x="486" y="22" fill="#744fd0">Robot Learning</text>
+    </g>
+  </g>
+
+  <g transform="translate(744 36)" filter="url(#softShadow)">
+    <circle cx="234" cy="176" r="146" fill="#ffffff" opacity="0.48" stroke="#eadff9"/>
+    <circle cx="234" cy="176" r="104" fill="none" stroke="#9c78e9" stroke-width="1.4" opacity="0.42"/>
+    <circle cx="234" cy="176" r="67" fill="none" stroke="#c9b8fa" stroke-dasharray="8 10" stroke-width="1.2" opacity="0.72"/>
+
+    <g transform="translate(202 142)">
+      <path d="M32 0 L46 46 L92 60 L46 74 L32 120 L18 74 L-28 60 L18 46 Z" fill="url(#crystal)" opacity="0.86"/>
+      <path d="M32 0 V120 M-28 60 H92 M18 46 L46 74 M46 46 L18 74" stroke="#ffffff" stroke-width="2" opacity="0.78"/>
+    </g>
+
+    <path d="M298 224 C354 220 386 256 402 306" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round" opacity="0.72"/>
+    <path d="M298 224 C354 220 386 256 402 306" fill="none" stroke="#8d6add" stroke-width="3" stroke-linecap="round" opacity="0.52"/>
+    <circle cx="298" cy="224" r="24" fill="#f8f5ff" stroke="#b9a8e8" stroke-width="3"/>
+    <circle cx="298" cy="224" r="9" fill="#a789e6" opacity="0.78"/>
+    <path d="M314 232 L390 286" stroke="#d8ccf8" stroke-width="10" stroke-linecap="round"/>
+    <path d="M390 286 L444 322" stroke="#f7f2ff" stroke-width="16" stroke-linecap="round"/>
+    <path d="M390 286 L444 322" stroke="#9a79e0" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+
+    <path d="M-26 286 H112 L156 242 H240" fill="none" stroke="url(#lineFade)" stroke-width="2"/>
+    <path d="M38 126 H160 L188 98 H278" fill="none" stroke="url(#lineFade)" stroke-width="1.6" opacity="0.78"/>
+    <circle cx="112" cy="286" r="4" fill="#b198e8"/>
+    <circle cx="188" cy="98" r="3.4" fill="#b198e8"/>
+    <circle cx="240" cy="242" r="4.8" fill="#ffffff" stroke="#aa92e6"/>
+  </g>
+
+  <g opacity="0.72">
+    <path d="M1132 74 l7 15 16 5 -15 7 -6 16 -7 -15 -16 -6 15 -7z" fill="#ffffff"/>
+    <path d="M1186 312 l6 13 14 5 -13 6 -5 14 -6 -13 -14 -5 13 -6z" fill="#ffffff"/>
+    <path d="M622 344 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z" fill="#a789e6"/>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1278.5" height="418.5" rx="27.25" fill="none" stroke="#eadff1" stroke-width="1.5"/>
+</svg>
