@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=12,20,24,25&text=Jiayang%20He&fontSize=52&fontAlignY=36&desc=B.Eng.%20Candidate%20in%20Computer%20Science%20%40%20SUSTech&descSize=18&animation=fadeIn)
 
-# Hi, I'm He Jiayang 👋
+# Hi, I'm Jiayang He 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-WeiYoung1013-181717?logo=github)](https://github.com/WeiYoung1013)
 [![Email](https://img.shields.io/badge/Email-12213023%40mail.sustech.edu.cn-blue)](mailto:12213023@mail.sustech.edu.cn)
@@ -55,6 +55,29 @@ profile = {
 | **Robot Learning** | imitation, reinforcement learning, generalization |
 
 </div>
+
+---
+
+## Emilia Solo Gallery
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><img src="./assets/emilia/emilia-fanart-1.jpg" alt="Emilia Fanart 1" width="220" /></td>
+    <td align="center"><img src="./assets/emilia/emilia-fanart-2.jpg" alt="Emilia Fanart 2" width="220" /></td>
+    <td align="center"><img src="./assets/emilia/emilia-fanart-3.jpg" alt="Emilia Fanart 3" width="220" /></td>
+  </tr>
+  <tr>
+    <td><sub>Solo fanart 01</sub></td>
+    <td><sub>Solo fanart 02</sub></td>
+    <td><sub>Solo fanart 03</sub></td>
+  </tr>
+</table>
+
+</div>
+
+> Put your favorite **single-character Emilia fanart** images into `assets/emilia/` with the filenames above, and they will display automatically.
 
 ---
 
