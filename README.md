@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=12,20,24,25&text=Jiayang%20He&fontSize=52&fontAlignY=36&desc=B.Eng.%20Candidate%20in%20Computer%20Science%20%40%20SUSTech&descSize=18&animation=fadeIn)
 
-# Hi, I'm Jiayang He 👋
+# Hi, I'm He Jiayang 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-WeiYoung1013-181717?logo=github)](https://github.com/WeiYoung1013)
 [![Email](https://img.shields.io/badge/Email-12213023%40mail.sustech.edu.cn-blue)](mailto:12213023@mail.sustech.edu.cn)
