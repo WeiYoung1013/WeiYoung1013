@@ -46,13 +46,11 @@ My work focuses on **Embodied AI**, **humanoid robotics**, **multimodal learning
 <td width="50%" valign="top">
 
 **Embodied AI**<br />
-<sub>Perception-action loops, interactive agents, and environment-grounded understanding.</sub>
 
 </td>
 <td width="50%" valign="top">
 
 **Humanoid Robotics**<br />
-<sub>Motion generation, control, simulation, and learning-based policies for humanoids.</sub>
 
 </td>
 </tr>
@@ -60,13 +58,11 @@ My work focuses on **Embodied AI**, **humanoid robotics**, **multimodal learning
 <td width="50%" valign="top">
 
 **Multimodal Learning**<br />
-<sub>Vision, language, sensors, representation learning, and cross-modal reasoning.</sub>
 
 </td>
 <td width="50%" valign="top">
 
 **Robot Learning**<br />
-<sub>Imitation, reinforcement learning, generalization, and sim-to-real robustness.</sub>
 
 </td>
 </tr>
