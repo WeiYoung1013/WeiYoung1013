@@ -28,9 +28,9 @@ My work focuses on **Embodied AI**, **humanoid robotics**, **multimodal learning
 <p align="center">
   <img src="./preview.gif" alt="" width="54" />
   &nbsp;&nbsp;
-  <a href="./index.html"><b>Homepage</b></a>
+  <a href="https://weiyoung1013.github.io/"><b>Homepage</b></a>
   &nbsp;·&nbsp;
-  <a href="./blog.html"><b>Blog</b></a>
+  <a href="https://weiyoung1013.github.io/blog.html"><b>Blog</b></a>
   &nbsp;·&nbsp;
   <a href="mailto:12213023@mail.sustech.edu.cn"><b>Email</b></a>
   &nbsp;&nbsp;
@@ -76,8 +76,8 @@ The site is static and GitHub Pages-friendly, with a clean warm-white homepage a
 
 | Entry | Path |
 | --- | --- |
-| Homepage | [`index.html`](./index.html) |
-| Blog index | [`blog.html`](./blog.html) |
+| Homepage | [weiyoung1013.github.io](https://weiyoung1013.github.io/) |
+| Blog index | [weiyoung1013.github.io/blog.html](https://weiyoung1013.github.io/blog.html) |
 | Blog posts | [`posts/`](./posts/) |
 
 ---
